@@ -1,0 +1,40 @@
+Duc Tran
+CS338: Graphic User Interface
+Project: Color Beats!
+GUIDE / HELP
+
+Requirement: 
+_Operation System: MacOS, Window10.
+_Java install.
+_Internet access. 
+_Any input picture or using the picture in the test picture folder.
+_Make sure to have guiproject.jar, assets and test picture in the same folder.
+_Dependency library: Google Gson and Google Guava.
+
+Instruction: 
+_Extract the GUI folder. 
+_Go to folder jar run. 
+_Locate that there is 1 jar file (guiproject.jar) and 2 folders (assets and test picture).
+_Press on guiproject.jar to run the program. 
+_The start window will appear with 2 buttons: start and instruction.
+_Start: will launch the main program.
+_Instruction: will launch window that has picture explaining how the program will function.
+
+_Instruction Window: 
++user can skim through the instruction and easy to understand the functionality. 
++Start: will launch the main program
++Back will take the user back to the start window.
+
+_Main Window:
++Choose File: user will need to choose the picture file as PNG, GIF, TIF or JPEG. Error message if the file is not the correct type.
+
++Analyze: begin to process the picture color analyze. There will be a message said please wait because the process will take time depends on the quality of the image ( I recommend to test will a medium pixel level). The result will show if you have proper internet connection so please wait a little bit. 
+
++Option: selection between low, medium, high level of analyze. The accuracy of color analyze will increase but it will take longer time. High level takes the longest time. Default set as low. 
+
++No Image: will display the input picture.
+
++Palette color window will be locate on the right side: it splits into 3 parts. 
+	-Left: show the color names.
+	-Upper right: show the color classification.
+	-Lower right: show all the colors. User can press on the color to hear the instrument 			sound plays according to notes.

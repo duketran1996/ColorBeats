@@ -1,0 +1,6 @@
+Duc Tran
+CS338: Graphic User Interface
+Username and password
+
+
+_The color API is free. No need to have any username or password to run the program. 

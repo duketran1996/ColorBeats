@@ -1,0 +1,33 @@
+Duc Tran
+CS338: Graphic User Interface
+Project: Color Beats
+Stage: 3.1
+
+Description: Color Beats is an application that analyze a picture and display all the colors that contain in that picture.
+One of the best feature of the application is the ability to play sound that represents each color.
+
+Execution File Instruction: 
+_Unzip the compressed file
+_Click on folder called "out".
+_Click on folder called "artifacts".
+_Click on folder called "guiproject_jar".
+_Run colorbeats.jar.
+
+The beta version instruction:
+_There are two button located on the top:
+    + Choose Picture: allow user to search for a picture input.
+    + Analyze: output the list of all colors contain in the picture.
+
+_Please wait a little bit for the application to analyze the picture.
+_The result will pop up in the window underneat the "analyze" button that display "No Color".
+_The list of colors will populate the window.
+_Click on the item of list to display the list of all color gradients.
+_The window on the right of the list has two section.
+    + Top: Show the catergory of that color as red, blue, green, white, black, ...
+    + Bottom: Show all the color gradients.
+_Click on the color to hear the sound of that color. 
+
+Note: 
+_ The beta version has limited sound option. Most has piano key sound except for Red color that can play violin note.
+_ You can test picture folder for testing the program. 
+

@@ -1,0 +1,21 @@
+Duc Tran
+CS338: Graphic User Interface
+Project: Color Beats!
+External Library, API, and Resources.
+
+API:
+_Extract names of color and values from color api: http://www.thecolorapi.com/
+
+External Library:
+_Google gson: parson son data 
+_Google guave: Multimap to store name and RGB values of color.
+
+Sound:
+_All sounds are being recorded from an instrumental simulation website https://scratch.mit.edu/projects/113333656/ using Voice Memo.
+_Convert to wav using iTunes.
+_Split sound using Audacity.
+
+Picture:
+_Background: custom draw and editing element using https://www.befunky.com/create/designer/
+
+Reference code for picture, sound processing and swing are from: https://docs.oracle.com/javase/tutorial/

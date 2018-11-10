@@ -1,0 +1,19 @@
+Duc Tran
+CS338: Graphic User Interface
+Project: Color Beats!
+READ ME
+
+Pass Functionality: 
+_All buttons generate sound as expected. 
+_Analyze color and error message shows correct. 
+
+Fail Functionality:
+_The sound library is small so if there are more than 7 buttons, the program won’t play sound. Except for the red and black color, they can play sound of note of piano and violin up to 11 buttons. 
+
+Improvement:
+_The program should play the instrument note level according to the color of the button rather than playing all level of notes for the same color of button. For example: if there are black color and there are 3 buttons that has the same color gradient of black. The note will stays the same even if you click on button 1 2 3. For a different gradient of black, the note will be different.
+_Process time for analyzing high level needs to be faster. 
+
+
+
+
