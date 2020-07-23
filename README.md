@@ -15,9 +15,7 @@ _ Make sure to have guiproject.jar, assets and test picture in the same folder.
 _ Go to folder jar.\
 _ Locate 1 jar file (guiproject.jar) and 2 folders (assets and test picture).\
 _ Double click on guiproject.jar to run the program.\
-_ The start window will appear with 2 buttons: start and instruction.\
-_ Start: will launch the main program.\
-_ Instruction: will launch window that has picture explaining how the program will function.
+_ The start window will appear with 2 buttons: start and instruction.
 
 ## Demo
 
